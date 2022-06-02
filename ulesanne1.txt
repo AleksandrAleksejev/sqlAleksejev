@@ -11,3 +11,5 @@
 Id int NOT NULL PRIMARY key,
 Gender int not null
 )
+
+TEHTUD
