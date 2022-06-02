@@ -8,6 +8,6 @@
 Допиши запрос 
 3.create table Gender
 (
-Id int NOT NULL .... key,
+Id int NOT NULL PRIMARY key,
 Gender int not null
 )
