@@ -1,5 +1,6 @@
 1.väärtus - ?  как переводится слово ?
 2.что такое Foreagn key?
+Допиши запрос 
 3.create table Gender
 (
 Id int NOT NULL .... key,
